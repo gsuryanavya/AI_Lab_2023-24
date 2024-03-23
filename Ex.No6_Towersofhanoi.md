@@ -31,6 +31,7 @@ move(N,X,Y,Z) :-
 */
 ```
 ### Output:
+<img width="489" alt="Screenshot 2024-03-23 221844" src="https://github.com/gsuryanavya/AI_Lab_2023-24/assets/133086963/8bbc0e2e-7ec6-45c2-9eab-177dffb12673">
 
 
 
